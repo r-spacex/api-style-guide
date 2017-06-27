@@ -1,5 +1,5 @@
 # Resources
 
-## Company Information (/company)
-## Vehicle Information (/vehicle)
-## Vehicle Components (/component)
+## [Company Information (/company)](resources/company.md)
+## [Vehicle Information (/vehicle)](resources/vehicle.md)
+## Vehicle Components (/component)](resources/component.md)
